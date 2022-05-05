@@ -1,4 +1,4 @@
-Presented by Ya'eer Kidron & Julia Rivkin & Yair Toledano
+Presented by Ya'eer Kidron & Yulia RYvkin & Yair Toledano
 
 
 # Social-Behavior-in-Drosophila
@@ -11,3 +11,4 @@ group composition shape behavior in groups. Here, we present an analytical frame
 interplay between social experience and group interaction in Drosophila melanogaster. We simplified the
 complexity of interactions in a group using a series of experiments in which we controlled the social experience and motivational states of individuals to compare behavioral patterns and social networks of groups
 under different conditions.
+
